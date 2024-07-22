@@ -3015,6 +3015,7 @@ __metadata:
     prettier: 2.8.8
     react: 18.2.0
     react-native: 0.74.3
+    react-native-mmkv: 3.0.0-beta.7
     react-test-renderer: 18.2.0
     typescript: 5.0.4
   languageName: unknown
@@ -7926,6 +7927,16 @@ __metadata:
   version: 17.0.2
   resolution: "react-is@npm:17.0.2"
   checksum: 9d6d111d8990dc98bc5402c1266a808b0459b5d54830bbea24c12d908b536df7883f268a7868cfaedde3dd9d4e0d574db456f84d2e6df9c4526f99bb4b5344d8
+  languageName: node
+  linkType: hard
+
+"react-native-mmkv@npm:3.0.0-beta.7":
+  version: 3.0.0-beta.7
+  resolution: "react-native-mmkv@npm:3.0.0-beta.7"
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+  checksum: e1c58f2b5e6b31c9eb40a38594cef322d70961d8d30a5d0718a2859954b6e5ebe4037b7ef0cd2d7c943b428d388b3b544d3871e608c4c3377251abd7b0ac0886
   languageName: node
   linkType: hard
 
